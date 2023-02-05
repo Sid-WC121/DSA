@@ -23,10 +23,14 @@
 ***
 <h3><em>Example:-</em></h3>
 
-#### Keys: 10,21,34,8,17,11
-<p> H(k) = k % 10  (i.e, range from 0 to 9)</p>
+#### Keys: 36,18,72,43,6
+<p> H(k) = k % 8  (i.e, range from 0 to 7)</p>
 <p align="center">
-<img src="/hash-table/example1.jpg" alt="Undirected graph" style="height: 250px; width:600px;"/>
+<img src="/hash-table/example1.jpg" alt="Undirected graph" style="height: 300px; width:350px;"/>
 </p>
 
 ***
+
+## :sparkle: Techniques:
+1. Direct Addressing (open addressing)
+2. Seperate Chaining (chaining)
