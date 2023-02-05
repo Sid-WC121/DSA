@@ -14,7 +14,7 @@
 <h2>:pirate_flag: Types of Graph </h2>
 
 <h2>:one: Undirected Graph </h2>
-<p> It is a graph <strong> G </strong> in which the edges does'nt have any direction.<br></p>
+<p> It is a graph <b> G </b> in which the edges does'nt have any direction.<br></p>
 <p align="center">
 <img src="/graph/undirected.jpg" alt="Undirected graph" style="height: 200px; width:200px;"/>
 </p>
@@ -22,7 +22,7 @@
 <br>
   
 <h2>:two: Directed Graph </h2>
-<p> It is a graph <strong> G </strong> in which the edges possess direction.<br></p>
+<p> It is a graph <b> G </b> in which the edges possess direction.<br></p>
 <p align="center">
 <img src="/graph/directed.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
 </p>
@@ -30,4 +30,4 @@
 <br>
   
 <h2>:three: Weighted Graph </h2>
-<p> It is a graph <strong> G </strong></p>
+<p> It is a graph <b> G </b></p>
