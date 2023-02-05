@@ -20,3 +20,13 @@
 3.  - Password Storage: Hashing is used to securely store passwords by turning a password into a fixed-length hash value that can be compared for authentication purposes, without having to store the original password.
 <p align="right">etc...</p>
 
+***
+<h3><em>Example:-</em></h3>
+
+#### Keys: 10,21,34,8,17,11
+<p> H(k) = k % 10  (i.e, range from 0 to 9)</p>
+<p align="center">
+<img src="/hash-table/example1.jpg" alt="Undirected graph" style="height: 250px; width:600px;"/>
+</p>
+
+***
