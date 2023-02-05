@@ -14,6 +14,7 @@
 <h2>:pirate_flag: Types of Graph </h2>
 <h2>:one: Undirected Graph </h2>
 <p> It is a graph <strong> G </strong> in which the edges does'nt have any direction.<br></p>
+<img src="/graph/undirected.jpg" alt="Undirected graph" style="height: 100px; width:100px;"/>
 <h2 align="center">a<sub>ij</sub> = a<sub>ji</sub>
 <br>
 <h2>:two: Directed Graph </h2>
