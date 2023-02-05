@@ -12,14 +12,22 @@
 <h2 align="center"> G = ( V, E ) </h2>
 <p> In computer science, graphs are commonly used in data structures, such as trees and networks, and in algorithms, such as search algorithms and pathfinding algorithms. They are also used in machine learning and artificial intelligence.</p>
 <h2>:pirate_flag: Types of Graph </h2>
+
 <h2>:one: Undirected Graph </h2>
 <p> It is a graph <strong> G </strong> in which the edges does'nt have any direction.<br></p>
-<img src="/graph/undirected.jpg" alt="Undirected graph" style="height: 100px; width:100px;"/>
+<p align="center">
+<img src="/graph/undirected.jpg" alt="Undirected graph" style="height: 200px; width:200px;"/>
+</p>
 <h2 align="center">a<sub>ij</sub> = a<sub>ji</sub>
 <br>
+  
 <h2>:two: Directed Graph </h2>
 <p> It is a graph <strong> G </strong> in which the edges possess direction.<br></p>
+<p align="center">
+<img src="/graph/directed.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+</p>
 <h2 align="center">a<sub>ij</sub> ≠ a<sub>ji</sub>
 <br>
+  
 <h2>:three: Weighted Graph </h2>
 <p> It is a graph <strong> G </strong></p>
