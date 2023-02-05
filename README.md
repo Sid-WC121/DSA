@@ -5,4 +5,5 @@
 
 <h2>Topics:</h2>
 
-[Graph](./graph/GRAPH.md)
+- [Array](./array/ARRAY.md)
+- [Graph](./graph/GRAPH.md)
