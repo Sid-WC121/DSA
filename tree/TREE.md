@@ -8,6 +8,6 @@
 
 <p> not needed for now.. </p>
 
-- [Binary Tree](./tree/binary-tree/BINARY-TREE.md)
-- [Binary Search Tree](./tree/binary-search-tree/BINARY-SEARCH-TREE.md)
-- [AVL Tree](./tree/AVL-tree/AVL-TREE.md)
+- [Binary Tree](./binary-tree/BINARY-TREE.md)
+- [Binary Search Tree](./binary-search-tree/BINARY-SEARCH-TREE.md)
+- [AVL Tree](./AVL-tree/AVL-TREE.md)
