@@ -5,17 +5,18 @@
 <p> Data structures are the way we organize data in our programs. Algorithms are the steps we take to manipulate that data. </p>
 
 <h2>Topics:</h2>
+<p align="right">Completed - :white_check_mark: <br> In progress - :x: </p>
 
-- [Array](./array/ARRAY.md)
-- [Linked List](./linked-list/LINKED-LIST.md)
-- [Stack](./stack/STACK.md)
-- [Queue](./queue/QUEUE.md)
-- [Tree](./tree/TREE.md)
-  - [Binary Tree](./tree/binary-tree/BINARY-TREE.md)
-  - [Binary Search Tree](./tree/binary-search-tree/BINARY-SEARCH-TREE.md)
-  - [AVL Tree](./tree/AVL-tree/AVL-TREE.md)
-- [Heap](./heap/HEAP.md)
-- [Hash Table](./hash-table/HASH-TABLE.md)
+- [Array](./array/ARRAY.md):white_check_mark:
+- [Linked List](./linked-list/LINKED-LIST.md) :x:
+- [Stack](./stack/STACK.md) :x:
+- [Queue](./queue/QUEUE.md) :x:
+- [Tree](./tree/TREE.md) :white_check_mark:
+  - [Binary Tree](./tree/binary-tree/BINARY-TREE.md) :x:
+  - [Binary Search Tree](./tree/binary-search-tree/BINARY-SEARCH-TREE.md) :x:
+  - [AVL Tree](./tree/AVL-tree/AVL-TREE.md) :x:
+- [Heap](./heap/HEAP.md) :x:
+- [Hash Table](./hash-table/HASH-TABLE.md) :x:
 - [Graph - (Terminology)](./graph/GRAPH.md) :white_check_mark:
-  - [Graph Traversal](./graph/graph-traversal/GRAPH-TRAVERSAL.md)
-  - [Spanning Tree](./graph/spanning-tree/SPANNING-TREE.md)
+  - [Graph Traversal](./graph/graph-traversal/GRAPH-TRAVERSAL.md) :x:
+  - [Spanning Tree](./graph/spanning-tree/SPANNING-TREE.md) :x:
