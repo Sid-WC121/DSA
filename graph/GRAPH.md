@@ -22,7 +22,7 @@
 <br>
   
 <h2>:two: Directed Graph </h2>
-<p> It can be directed or undirected graph <b> G </b> in which the edges possess direction.<br></p>
+<p> It is a graph <b> G </b> in which the edges possess direction.<br></p>
 <p align="center">
 <img src="/graph/directed.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
 </p>
@@ -30,7 +30,7 @@
 <br>
   
 <h2>:three: Weighted Graph </h2>
-<p> It is a graph <b> G </b>edges have a numerical value(weight).</p>
+<p> It can be directed or undirected  graph <b> G </b>edges have a numerical value(weight).</p>
   
   - <h4>Weighted Directed Graph: <em>A directed graph with edge weight</em> or <em>A weighted and directed graph is where edges have a direction and a numerical value!</em></h4>
 <p align="center">
@@ -41,3 +41,36 @@
 <p align="center">
 <img src="/graph/wudg.jpg" alt="Directed graph" style="height: 230px; width:250px;"/>
 </p>
+<br>
+ 
+<h2>:four: Cyclic Graph </h2>
+<p>A graph that contains at least one cycle is known as a cyclic graph.</p>
+<p align="center">
+<img src="/graph/cyclic.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+</p>
+<br>
+
+<h2>:five: Acyclic Graph </h2>
+<p>A graph that contains zero cycles is known as an acyclic graph.</p>
+<p align="center">
+<img src="/graph/acyclic.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+</p>
+<br>
+  
+> Note:
+> <p> A cycle in context of graph occures when number of vertices are connected to one another in a closed chain of edjes.<p>
+  
+<h2>:six: Directed aCyclic Graph (DAG) </h2>
+<br>
+
+<h2>:seven: Degree of a Vertex</h2>
+<br>
+
+<h2>:eight: Degree of a Graph </h2>
+<br>
+
+<h2>:nine: Connected Graph </h2>
+<br>
+
+<h2>:keycap_ten: Disconnected Graph </h2>
+<br>
