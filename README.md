@@ -18,3 +18,4 @@
 - [Hash Table](./hash-table/HASH-TABLE.md)
 - [Graph](./graph/GRAPH.md)
   - [Graph Traversal](./graph/graph-traversal/GRAPH-TRAVERSAL.md)
+  - [Spanning Tree](./graph/spanning-tree/SPANNING-TREE.md)
