@@ -56,12 +56,25 @@
 <img src="/graph/acyclic.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
 </p>
 <br>
+<p align="center">
+<img src="/graph/DCG.jpg" alt="Directed graph" style="height: 250px; width:500px;"/>
+</p>
+<br>
   
 > Note:
 > <p> A cycle in context of graph occures when number of vertices are connected to one another in a closed chain of edjes.<p>
   
 <h2>:six: Directed aCyclic Graph (DAG) </h2>
+<p>A directed aCyclic graph ia one that is directed, but does not contain ANY cycles. These are also called DAG's for short.</p>
+<p align="center">
+<img src="/graph/DAG.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+</p>
 <br>
+
+> Note:
+> - A DAG is the backbone of applications that handle scheduling for system of tasks, which needs to be processed in an order.<br>
+> - It is the concept behind Dependency Graphs.<br>
+> - It is used to represent a State Machine for objects that don't have " reversible " states.
 
 <h2>:seven: Degree of a Vertex</h2>
 <br>
