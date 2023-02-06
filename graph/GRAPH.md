@@ -34,30 +34,30 @@
   
   - <h4>Weighted Directed Graph: <em>A directed graph with edge weight</em> or <em>A weighted and directed graph is where edges have a direction and a numerical value!</em></h4>
 <p align="center">
-<img src="/graph/wdg.jpg" alt="Directed graph" style="height: 230px; width:250px;"/>
+<img src="/graph/wdg.jpg" style="height: 230px; width:250px;"/>
 </p>
   
   - <h4>Weighted unDirected Graph: <em>An undirected graph with edge weight</em></h4>
 <p align="center">
-<img src="/graph/wudg.jpg" alt="Directed graph" style="height: 230px; width:250px;"/>
+<img src="/graph/wudg.jpg" style="height: 230px; width:250px;"/>
 </p>
 <br>
  
 <h2>:four: Cyclic Graph </h2>
 <p>A graph that contains at least one cycle is known as a cyclic graph.</p>
 <p align="center">
-<img src="/graph/cyclic.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+<img src="/graph/cyclic.jpg" style="height: 200px; width:200px;"/>
 </p>
 <br>
 
 <h2>:five: Acyclic Graph </h2>
 <p>A graph that contains zero cycles is known as an acyclic graph.</p>
 <p align="center">
-<img src="/graph/acyclic.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+<img src="/graph/acyclic.jpg" style="height: 200px; width:200px;"/>
 </p>
 <br>
 <p align="center">
-<img src="/graph/DCG.jpg" alt="Directed graph" style="height: 250px; width:500px;"/>
+<img src="/graph/DCG.jpg"  style="height: 250px; width:500px;"/>
 </p>
 <br>
   
@@ -67,7 +67,7 @@
 <h2>:six: Directed aCyclic Graph (DAG) </h2>
 <p>A directed aCyclic graph ia one that is directed, but does not contain ANY cycles. These are also called DAG's for short.</p>
 <p align="center">
-<img src="/graph/DAG.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+<img src="/graph/DAG.jpg"  style="height: 200px; width:200px;"/>
 </p>
 <br>
 
@@ -86,14 +86,14 @@
 <h2>:nine: Connected Graph </h2>
 <p>A connected graph is a graph where there exists a path between any two vertices in the graph. In other words, there are no isolated vertices in a connected graph.</p>
 <p align="center">
-<img src="/graph/connected.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+<img src="/graph/connected.jpg"  style="height: 200px; width:200px;"/>
 </p>
 <br>
 
 <h2>:keycap_ten: Disconnected Graph </h2>
 <p> If a graph is not connected, it is called a disconnected graph.</p>
 <p align="center">
-<img src="/graph/disconnected.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+<img src="/graph/disconnected.jpg"  style="height: 200px; width:200px;"/>
 </p>
 <br>
   
@@ -109,4 +109,18 @@
 
 <br>
 <h3>:one: Adjacency Matrix </h3>
-
+  
+- In case of an undirected graph, we need to show that there is an edge from vertex i  to vertex j and vice versa. In code, we assign adj[i][j] = 1  and adj[j][i] = 1 .
+<p align="center">
+<img src="/graph/undirA.png" style="height: 200px; width:400px;"/>
+</p>
+  
+- In case of a directed graph, if there is an edge from vertex i to vertex j then we just assign adj[i][j]=1 .
+<p align="center">
+<img src="/graph/dirA.jpg" style="height: 600px; width:400px;"/>
+</p>
+  
+- In case of weighted directed graph:
+<p align="center">
+<img src="/graph/weidirA.jpg" style="height: 600px; width:400px;"/>
+</p>
