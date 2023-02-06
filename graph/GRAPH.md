@@ -100,3 +100,13 @@
 > Note:
 > - A graph is said to be strongly connected if there is a directed path between every pair of vertices.
 > - A directed path in a graph is a sequence of vertices connected by directed edges, where the edges have a specific direction from one vertex to another. The path starts at one vertex and ends at another, following the direction of the edges along the way. A directed path represents a directed connection between two vertices in a directed graph.
+  
+<br>
+  
+### :triangular_flag_on_post: Representation
+1. Adjacency Matrix 
+2. Adjacency List (not needed now..)
+
+<br>
+<h3>:one: Adjacency Matrix </h3>
+
