@@ -17,3 +17,4 @@
 - [Heap](./heap/HEAP.md)
 - [Hash Table](./hash-table/HASH-TABLE.md)
 - [Graph](./graph/GRAPH.md)
+  - [Graph Traversal](./graph/graph-traversal/GRAPH-TRAVERSAL.md)
