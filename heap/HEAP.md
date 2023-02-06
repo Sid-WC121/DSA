@@ -14,3 +14,4 @@
 <img src="/heap/typesheap.png" alt="Heap" style="height: 250px; width:500px;"/>
 </p>
 
+**`Heapify`** is a process in which an unordered binary tree is transformed into a valid heap. It involves adjusting the nodes in the tree to satisfy the heap property, either the max-heap property (where the parent node is greater than or equal to its children) or the min-heap property (where the parent node is less than or equal to its children).
