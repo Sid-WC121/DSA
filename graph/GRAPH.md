@@ -1,3 +1,11 @@
+<p align="right">
+<kbd>
+<a href="https://github.com/Sid-WC121/DSA" >Main</a><br>
+</kbd>
+<kbd>
+<a href="./graph-traversal/GRAPH-TRAVERSAL.md" >next(Graph Traversal)</a>
+</kbd>
+</p>
 <h1 align="center"> Graph Terminologies</h1>
 <br>
 
@@ -49,15 +57,15 @@
 <img src="/graph/cyclic.jpg" style="height: 200px; width:200px;"/>
 </p>
 <br>
+<p align="center">
+<img src="/graph/DCG.jpg"  style="height: 250px; width:500px;"/>
+</p>
+<br>
 
 <h2>:five: Acyclic Graph </h2>
 <p>A graph that contains zero cycles is known as an acyclic graph.</p>
 <p align="center">
 <img src="/graph/acyclic.jpg" style="height: 200px; width:200px;"/>
-</p>
-<br>
-<p align="center">
-<img src="/graph/DCG.jpg"  style="height: 250px; width:500px;"/>
 </p>
 <br>
   
@@ -123,4 +131,9 @@
 - In case of weighted directed graph:
 <p align="center">
 <img src="/graph/weidirA.jpg" style="height: 600px; width:400px;"/>
+</p>
+<p align="right">
+<kbd>
+<a href="./graph-traversal/GRAPH-TRAVERSAL.md" >next(Graph Traversal)</a>
+</kbd>
 </p>
