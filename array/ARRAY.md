@@ -1,3 +1,7 @@
+<p align="right">
+<kbd>
+<a href="https://github.com/Sid-WC121/DSA" >Main</a><br>
+</kbd>
 <h1 align="center">ARRAY</h1>
 <br>
 
@@ -331,3 +335,7 @@ search function:
       print message "Element {element} is not found in the array"
 ```
   
+<p align="center">
+<kbd>
+<a href="https://github.com/Sid-WC121/DSA" >Main</a><br>
+</kbd>
