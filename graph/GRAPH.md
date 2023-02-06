@@ -22,7 +22,7 @@
 <br>
   
 <h2>:two: Directed Graph </h2>
-<p> It is a graph <b> G </b> in which the edges possess direction.<br></p>
+<p> It can be directed or undirected graph <b> G </b> in which the edges possess direction.<br></p>
 <p align="center">
 <img src="/graph/directed.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
 </p>
@@ -30,4 +30,14 @@
 <br>
   
 <h2>:three: Weighted Graph </h2>
-<p> It is a graph <b> G </b></p>
+<p> It is a graph <b> G </b>edges have a numerical value(weight).</p>
+  
+  - <h4>Weighted Directed Graph: <em>A directed graph with edge weight</em> or <em>A weighted and directed graph is where edges have a direction and a numerical value!</em></h4>
+<p align="center">
+<img src="/graph/wdg.jpg" alt="Directed graph" style="height: 230px; width:250px;"/>
+</p>
+  
+  - <h4>Weighted unDirected Graph: <em>An undirected graph with edge weight</em></h4>
+<p align="center">
+<img src="/graph/wudg.jpg" alt="Directed graph" style="height: 230px; width:250px;"/>
+</p>
