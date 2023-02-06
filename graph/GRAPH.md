@@ -77,13 +77,26 @@
 > - It is used to represent a State Machine for objects that don't have " reversible " states.
 
 <h2>:seven: Degree of a Vertex</h2>
+<p>It is the number of edges that are connected to it. It is a measure of how many neighbors a vertex has in the graph.</p>
 <br>
-
 <h2>:eight: Degree of a Graph </h2>
+<p>It is the highest degree exhibited by one of the vertex in <b>G</b>.</p> 
 <br>
 
 <h2>:nine: Connected Graph </h2>
+<p>A connected graph is a graph where there exists a path between any two vertices in the graph. In other words, there are no isolated vertices in a connected graph.</p>
+<p align="center">
+<img src="/graph/connected.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+</p>
 <br>
 
 <h2>:keycap_ten: Disconnected Graph </h2>
+<p> If a graph is not connected, it is called a disconnected graph.</p>
+<p align="center">
+<img src="/graph/disconnected.jpg" alt="Directed graph" style="height: 200px; width:200px;"/>
+</p>
 <br>
+  
+> Note:
+> - A graph is said to be strongly connected if there is a directed path between every pair of vertices.
+> - A directed path in a graph is a sequence of vertices connected by directed edges, where the edges have a specific direction from one vertex to another. The path starts at one vertex and ends at another, following the direction of the edges along the way. A directed path represents a directed connection between two vertices in a directed graph.
