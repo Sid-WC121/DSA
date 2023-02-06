@@ -16,6 +16,6 @@
   - [AVL Tree](./tree/AVL-tree/AVL-TREE.md)
 - [Heap](./heap/HEAP.md)
 - [Hash Table](./hash-table/HASH-TABLE.md)
-- [Graph](./graph/GRAPH.md)
+- [Graph - (Terminology)](./graph/GRAPH.md) :white_check_mark:
   - [Graph Traversal](./graph/graph-traversal/GRAPH-TRAVERSAL.md)
   - [Spanning Tree](./graph/spanning-tree/SPANNING-TREE.md)
