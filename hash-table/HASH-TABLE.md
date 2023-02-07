@@ -1,3 +1,8 @@
+<p align="right">
+<kbd>
+<a href="https://github.com/Sid-WC121/DSA" >Main</a><br>
+</kbd>
+</p>
 <h1 align="center"> Hash Table</h1>
 <br>
 
@@ -34,3 +39,9 @@
 ## :sparkle: Techniques:
 1. Direct Addressing (open addressing)
 2. Seperate Chaining (chaining)
+
+<p align="center">
+<kbd>
+<a href="https://github.com/Sid-WC121/DSA" >Main</a><br>
+</kbd>
+</p>
