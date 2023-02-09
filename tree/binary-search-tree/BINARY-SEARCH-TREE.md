@@ -17,3 +17,5 @@
 - _Faster search times_ - BSTs can search for a specific key in O(log n) time, which is faster than searching an array or linked list in O(n) time.
 - _Flexible insertion and deletion_ - BSTs can insert and delete elements in O(log n) time, making it suitable for dynamic data sets.
 - _Ordered data_ - BSTs store data in a specific order, making it possible to quickly find the minimum or maximum value in the tree.
+<br>
+<p>BSTs have some disadvantages as well, such as being susceptible to becoming unbalanced and having poor performance in certain cases. However, there are techniques to maintain the balance of BSTs, such as self-balancing trees like AVL trees and red-black trees.</p>
