@@ -14,8 +14,10 @@
 <p>In a BST, each node stores a key and a value, and the keys are arranged in such a way that for any node, its left child's key is less than its own key and the right child's key is greater than its own key. This makes it possible to quickly find the node with a specific key by repeatedly dividing the tree into smaller parts.</p>
 <p>BSTs have several advantages over other data structures such as arrays and linked lists, including:</p>
 
+  
 - _Faster search times_ - BSTs can search for a specific key in O(log n) time, which is faster than searching an array or linked list in O(n) time.
 - _Flexible insertion and deletion_ - BSTs can insert and delete elements in O(log n) time, making it suitable for dynamic data sets.
 - _Ordered data_ - BSTs store data in a specific order, making it possible to quickly find the minimum or maximum value in the tree.
+  
 <br>
 <p>BSTs have some disadvantages as well, such as being susceptible to becoming unbalanced and having poor performance in certain cases. However, there are techniques to maintain the balance of BSTs, such as self-balancing trees like AVL trees and red-black trees.</p>
