@@ -15,7 +15,7 @@
 > #### Note:
 > <em>It is the data structure that satisfies the demand for a data structure that can perform atleast the search/retrieval operation in constant time complexity <b>O</b>(1)</em>
 <p align="center">
-<img src="/hash-table/hash-table.png" alt="Undirected graph" style="height: 250px; width:600px;"/>
+<img src="/hash-table/hash-table.png" style="height: 250px; width:600px;"/>
 </p>
 
 
@@ -33,7 +33,7 @@
 #### Keys: 36,18,72,43,6
 <p> H(k) = k % 8  (i.e, range from 0 to 7)</p>
 <p align="center">
-<img src="/hash-table/example1. hashingjpg" alt="Undirected graph" style="height: 300px; width:350px;"/>
+<img src="/hash-table/example1. hashingjpg" style="height: 300px; width:350px;"/>
 </p>
 
 ***
