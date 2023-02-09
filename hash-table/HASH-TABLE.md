@@ -33,7 +33,7 @@
 #### Keys: 36,18,72,43,6
 <p> H(k) = k % 8  (i.e, range from 0 to 7)</p>
 <p align="center">
-<img src="/hash-table/example1. hashingjpg" style="height: 300px; width:350px;"/>
+<img src="/hash-table/example1.jpg" style="height: 300px; width:350px;"/>
 </p>
 
 ***
