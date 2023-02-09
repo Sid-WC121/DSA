@@ -26,19 +26,32 @@
 <p align="right">etc...</p>
 
 ***
+> Index Mapping (also known as Trivial Hashing) is a simple form of hashing where the data is directly mapped to an index in a hash table. The hash function used in this method is typically the identity function, which maps the input data to itself. In this case, the key of the data is used as the index in the hash table, and the value is stored at that index.
+***
 <h3><em>Example:-</em></h3>
 
 #### Keys: 36,18,72,43,6
 <p> H(k) = k % 8  (i.e, range from 0 to 7)</p>
 <p align="center">
-<img src="/hash-table/example1.jpg" alt="Undirected graph" style="height: 300px; width:350px;"/>
+<img src="/hash-table/example1. hashingjpg" alt="Undirected graph" style="height: 300px; width:350px;"/>
 </p>
 
 ***
 
-## :sparkle: Techniques:
+## :sparkle:Collision
+
+
+## :sparkle:Collisions Handling Techniques:
 1. Direct Addressing (open addressing)
 2. Seperate Chaining (chaining)
+
+<h3> :one: Direct Addressing (open addressing)</h3>
+
+1. Linear probing
+2. Quadratic probing
+3. Double hashing
+
+<h3> :two: Seperate Chaining (chaining)</h3>
 
 <p align="center">
 <kbd>
