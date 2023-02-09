@@ -39,7 +39,7 @@
 ***
 
 ## :sparkle:Collision
-
+*A collision in a hash table occurs when two different keys produce the same index (hash value) in the array. This means that the same bucket in the array is being used to store different key-value pairs, which can lead to ambiguity and incorrect behavior.*
 
 ## :sparkle:Collisions Handling Techniques:
 1. Direct Addressing (open addressing)
@@ -47,11 +47,15 @@
 
 <h3> :one: Direct Addressing (open addressing)</h3>
 
-1. Linear probing
-2. Quadratic probing
-3. Double hashing
+>This method involves searching for the next available bucket in the array if the original index is already occupied. There are several variations of open addressing, including linear probing, quadratic probing, and double hashing.
+
+1. **`Linear probing` :-** _In this method, the next available bucket is found by incrementing the index until an empty bucket is found. This can result in clusters of occupied buckets, which can reduce the overall performance of the hash table._
+2. **`Quadratic probing` :-** _In this method, the next available bucket is found by incrementing the index using a quadratic function, such as i^2, where i is the number of probes. This method helps to avoid the clustering issue seen in linear probing._
+3. **`Double hashing` :-** _In this method, a secondary hash function is used to determine the next index to probe. This method helps to ensure that keys are distributed uniformly across the indices of the array, reducing the likelihood of collisions._
 
 <h3> :two: Seperate Chaining (chaining)</h3>
+
+> This method involves creating a linked list at each index in the array, so that multiple key-value pairs can be stored in the same bucket. When a collision occurs, the new key-value pair is simply added to the end of the linked list at that index.
 
 <p align="center">
 <kbd>
