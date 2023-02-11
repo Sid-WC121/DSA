@@ -19,7 +19,7 @@
   - [*`Binary Search Tree`*](./tree/binary-search-tree/BINARY-SEARCH-TREE.md) :x:
   - [*`AVL Tree`*](./tree/AVL-tree/AVL-TREE.md) :x:
 - [Heap](./heap/HEAP.md) :x:
-- [Hash Table](./hash-table/HASH-TABLE.md) :x: ( *only problems remains* )
+- [Hash Table](./hash-table/HASH-TABLE.md) :x:
 - [Graph - (Terminology)](./graph/GRAPH.md) :white_check_mark:
   - [Graph Traversal](./graph/graph-traversal/GRAPH-TRAVERSAL.md) :x:
   - [Spanning Tree](./graph/spanning-tree/SPANNING-TREE.md) :x:
