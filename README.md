@@ -7,7 +7,7 @@
 <img src="/complex.jpg" style="height: 300px; width:700px;"/>
 </p>
 
-<h2>Topics:</h2>
+<h2>Topics:-</h2>
 <p align="right">Completed - :white_check_mark: <br> In progress - :x: </p>
 
 - [Array](./array/ARRAY.md):white_check_mark:
